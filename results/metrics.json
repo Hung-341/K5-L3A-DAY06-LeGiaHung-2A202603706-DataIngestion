@@ -1,0 +1,56 @@
+[
+  {
+    "strategy": "A",
+    "split": "dev",
+    "question_count": 17,
+    "hit_at_1_n": 1,
+    "hit_at_1": 0.058823529411764705,
+    "evidence_hit_at_3_n": 3,
+    "evidence_hit_at_3": 0.17647058823529413
+  },
+  {
+    "strategy": "A",
+    "split": "test",
+    "question_count": 5,
+    "hit_at_1_n": 1,
+    "hit_at_1": 0.2,
+    "evidence_hit_at_3_n": 1,
+    "evidence_hit_at_3": 0.2
+  },
+  {
+    "strategy": "B",
+    "split": "dev",
+    "question_count": 17,
+    "hit_at_1_n": 1,
+    "hit_at_1": 0.058823529411764705,
+    "evidence_hit_at_3_n": 2,
+    "evidence_hit_at_3": 0.11764705882352941
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "question_count": 5,
+    "hit_at_1_n": 0,
+    "hit_at_1": 0.0,
+    "evidence_hit_at_3_n": 0,
+    "evidence_hit_at_3": 0.0
+  },
+  {
+    "strategy": "C",
+    "split": "dev",
+    "question_count": 17,
+    "hit_at_1_n": 1,
+    "hit_at_1": 0.058823529411764705,
+    "evidence_hit_at_3_n": 2,
+    "evidence_hit_at_3": 0.11764705882352941
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "question_count": 5,
+    "hit_at_1_n": 0,
+    "hit_at_1": 0.0,
+    "evidence_hit_at_3_n": 0,
+    "evidence_hit_at_3": 0.0
+  }
+]

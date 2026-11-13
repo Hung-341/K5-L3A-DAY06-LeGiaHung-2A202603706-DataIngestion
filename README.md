@@ -1,5 +1,31 @@
 # Day 06 · Data Ingestion Engineering
 
+## Bài nộp — setup, chạy và đường dẫn
+
+Học viên: xem [STUDENT.md](STUDENT.md). Báo cáo: [report/individual/2A202603706_LeGiaHung.md](report/individual/2A202603706_LeGiaHung.md).
+
+| Thành phần | Đường dẫn |
+|---|---|
+| Code pipeline | [starter/src/](starter/src/) (`run.py` điều phối A/B/C) |
+| Corpus (CC BY-SA 3.0 IGO) và manifest | [data/corpus/](data/corpus/), [data/manifest.csv](data/manifest.csv) |
+| Benchmark (22 câu, 17 dev / 5 test) | [benchmark/questions.jsonl](benchmark/questions.jsonl) |
+| Cấu hình và giả thuyết A/B/C | [artifacts/experiment_log.csv](artifacts/experiment_log.csv) |
+| Trace, metric, log, mẫu chấm | [results/](results/) |
+
+```bash
+cd starter
+python -m venv .venv            # Windows: .venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+cp .env.example .env            # điền OPENAI_API_KEY và EMBEDDING_MODEL=text-embedding-3-small
+docker compose -p day6_student_starter up -d --wait
+python scripts/check_setup.py
+python -m src.run               # EVALUATION_SPLIT=dev; đặt both chỉ sau khi chốt tiêu chí chọn
+```
+
+Đường dẫn trong `.env` và manifest tính từ thư mục gốc repo. Mỗi lần chạy ghi đè `results/`: `traces.jsonl`, `metrics.json` (Hit@1/Hit@3 dạng n/N), `run_summary.json` (model, version, số chunk, token, chi phí, thời gian, kiểm tra nạp lại), `ingestion_log.csv`, `ingestion_issues.csv`, `coherence_labels.csv` và khi có test thêm `test_metadata_audit.csv`, `test_grounding_audit.csv`.
+
+---
+
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
 
 Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.

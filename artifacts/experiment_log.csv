@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size (characters per page),500,50,"document_id, source, page, char_start, char_end, title, year, audience, document_type, language",none,"OpenAI text-embedding-3-small (1536 dims), pgvector 0.8.7 cosine exact search",Baseline: small windows with overlap keep short evidence quotes inside one chunk more often than longer chunks,1/17,3/17,1/5,1/5,run 2026-11-13T11:56:52Z (EVALUATION_SPLIT=both); 793 chunks; 80966 doc tokens
+B,by_paragraph (blank-line paragraphs packed per page; oversized paragraphs hard-split),700,0,same as A,none,same as A,"Paragraph-aligned chunks should be more coherent and keep whole ideas, improving Hit@1 over A",1/17,2/17,0/5,0/5,"554 chunks; 73485 doc tokens; only 17/110 pages have blank-line paragraph breaks after pypdf extraction, so 540/554 chunks are hard cuts of paragraphs longer than 700 chars (424 of them exactly 700 chars); only 14 chunks are packed real paragraphs"
+C,same chunks and vectors as B,700,0,same as A,metadata @> question.filter (audience) when the question has a filter; otherwise no filter,same as A,Restricting to the audience given in the question removes cross-document distractors; only change vs B is the filter,1/17,2/17,0/5,0/5,8/17 dev and 2/5 test questions carry a filter; the others run unfiltered (identical to B)

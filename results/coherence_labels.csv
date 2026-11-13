@@ -1,0 +1,459 @@
+﻿position_id,document_id,page,char_offset,strategy,chunk_id,chunk_chars,chunk_text,coherence_score_0_to_2,reason
+P01,unesco_ai_students,3,658,A,a71237c082dffacc53bb0ea8c5cae20c537be6be798242200e346ea102cee593,499,"The UNESCO AI competency framework for students aims to help
+educators in this integration, outlining 12 competencies across four
+dimensions: Human-centred mindset, Ethics of AI, AI techniques
+and applications, and AI system design. These competencies span
+three progression levels: Understand,
+Apply, and Create. The framework details
+curricular goals and domain-specific
+pedagogical methodologies.
+Grounded in a vision of students as AI
+co-creators and responsible citizens,
+the framework emphasiz",2,"Core claim is complete (12 competencies, four dimensions, three levels); only the final new sentence is cut mid-word."
+P01,unesco_ai_students,3,658,B,92f351af6b0b707c32eda614619dcb6ef9687f347a1bee1761ed224302edf94c,700,"“Since wars begin in the minds of men and
+women it is in the minds of men and women
+that the defences of peace must be constructed”
+Artificial intelligence (AI) is increasingly integral to our lives,
+necessitating proactive education systems to prepare students to
+be responsible users and co-creators of AI. Integrating AI learning
+objectives into official school curricula is crucial for students globally
+to engage safely and meaningfully with AI.
+The UNESCO AI competency framework for students aims to help
+educators in this integration, outlining 12 competencies across four
+dimensions: Human-centred mindset, Ethics of AI, AI techniques
+and applications, and AI system design. These competenci",2,"Main idea complete (purpose of the AI CFS, 12 competencies across four named dimensions); the leading epigraph is noise and the cut only hits the next sentence ('These competenci…'), which starts a new claim about levels."
+P01,unesco_ai_students,3,658,C,92f351af6b0b707c32eda614619dcb6ef9687f347a1bee1761ed224302edf94c,700,"“Since wars begin in the minds of men and
+women it is in the minds of men and women
+that the defences of peace must be constructed”
+Artificial intelligence (AI) is increasingly integral to our lives,
+necessitating proactive education systems to prepare students to
+be responsible users and co-creators of AI. Integrating AI learning
+objectives into official school curricula is crucial for students globally
+to engage safely and meaningfully with AI.
+The UNESCO AI competency framework for students aims to help
+educators in this integration, outlining 12 competencies across four
+dimensions: Human-centred mindset, Ethics of AI, AI techniques
+and applications, and AI system design. These competenci",2,Same chunk as B: main idea complete; epigraph noise; cut only in the trailing sentence that starts the levels claim.
+P02,unesco_ai_students,5,1250,A,aea98a748f8986fa734587740d5e4e094172d9e616fb4e13d3161e20536221d8,500,"become responsible and creative citizens, equipped to thrive in the AI era. This will
+help students acquire the values, knowledge and skills necessary to examine and understand AI
+critically from a holistic perspective, including its ethical, social and technical dimensions.
+The new framework embodies UNESCO’s mandate by anchoring its vision of AI and education
+in principles of human rights, inclusion and equity. This approach seeks to ensure that AI
+supports the development of human capabilitie",2,"The framework goal, responsible/creative students, critical AI understanding and rights/inclusion framing are clear. Opening and tail are clipped, but the main idea remains understandable on its own."
+P02,unesco_ai_students,5,1250,B,e9f12ea6f8833d222906f843d71336e81d2e2c925e9d15cb64ac08b3b4138c71,700,"y.
+This is exactly the ambition of UNESCO’s AI competency framework for students – the first ever
+global framework of its kind. It aims to support the development of core competencies for
+students to become responsible and creative citizens, equipped to thrive in the AI era. This will
+help students acquire the values, knowledge and skills necessary to examine and understand AI
+critically from a holistic perspective, including its ethical, social and technical dimensions.
+The new framework embodies UNESCO’s mandate by anchoring its vision of AI and education
+in principles of human rights, inclusion and equity. This approach seeks to ensure that AI
+supports the development of human capabilitie",2,"The framework goal, responsible/creative students, critical AI understanding and rights/inclusion framing are clear. Opening and tail are clipped, but the main idea remains understandable on its own."
+P02,unesco_ai_students,5,1250,C,e9f12ea6f8833d222906f843d71336e81d2e2c925e9d15cb64ac08b3b4138c71,700,"y.
+This is exactly the ambition of UNESCO’s AI competency framework for students – the first ever
+global framework of its kind. It aims to support the development of core competencies for
+students to become responsible and creative citizens, equipped to thrive in the AI era. This will
+help students acquire the values, knowledge and skills necessary to examine and understand AI
+critically from a holistic perspective, including its ethical, social and technical dimensions.
+The new framework embodies UNESCO’s mandate by anchoring its vision of AI and education
+in principles of human rights, inclusion and equity. This approach seeks to ensure that AI
+supports the development of human capabilitie",2,"The framework goal, responsible/creative students, critical AI understanding and rights/inclusion framing are clear. Opening and tail are clipped, but the main idea remains understandable on its own."
+P03,unesco_ai_students,11,1593,A,51fc3899d52db44b3729ff582a60ecbe839b5edfa50fac94d6507056d3830cac,500,"e
+competencies that students are likely to
+require as we move deeper into the AI era,
+the ultimate aim of this AI competency
+framework for students (AI CFS) is to help
+shape responsible and creative citizens that
+can co-create these desirable futures.
+Governments acknowledged the urgent
+need to develop AI literacy and more
+advanced AI competencies as early as 2019,
+when they adopted the UNESCO Beijing
+Consensus on AI and Education. Indeed, the
+Beijing Consensus underlined the need to
+equip peopl",2,"Leading fragment, then two complete ideas: the aim of the AI CFS and the 2019 Beijing Consensus claim (a complete sentence). Only the next, elaborating sentence ('Indeed… equip peopl') is cut mid-word, same pattern as P01 A, P02, P08."
+P03,unesco_ai_students,11,1593,B,3e0caac93059122b61352dd47db7aa7c62e6bf37a6cc3dc514099c8bd66db7a9,700," as we move deeper into the AI era,
+the ultimate aim of this AI competency
+framework for students (AI CFS) is to help
+shape responsible and creative citizens that
+can co-create these desirable futures.
+Governments acknowledged the urgent
+need to develop AI literacy and more
+advanced AI competencies as early as 2019,
+when they adopted the UNESCO Beijing
+Consensus on AI and Education. Indeed, the
+Beijing Consensus underlined the need to
+equip people with AI literacy across all layers
+of society. However, according to a recent
+survey conducted across 190 countries,
+only some 15 countries were found to be
+developing or implementing AI curricula
+in school education (UNESCO, 2022b). The
+survey als",2,"Complete ideas: aim of the AI CFS, Beijing Consensus 2019, survey finding of ~15 countries; only the next sentence ('The survey als…') is cut."
+P03,unesco_ai_students,11,1593,C,3e0caac93059122b61352dd47db7aa7c62e6bf37a6cc3dc514099c8bd66db7a9,700," as we move deeper into the AI era,
+the ultimate aim of this AI competency
+framework for students (AI CFS) is to help
+shape responsible and creative citizens that
+can co-create these desirable futures.
+Governments acknowledged the urgent
+need to develop AI literacy and more
+advanced AI competencies as early as 2019,
+when they adopted the UNESCO Beijing
+Consensus on AI and Education. Indeed, the
+Beijing Consensus underlined the need to
+equip people with AI literacy across all layers
+of society. However, according to a recent
+survey conducted across 190 countries,
+only some 15 countries were found to be
+developing or implementing AI curricula
+in school education (UNESCO, 2022b). The
+survey als",2,Same chunk as B: ideas complete; only the trailing new sentence is cut.
+P04,unesco_ai_students,12,1258,A,25a0307ea502a2075dfa14c28cbcdd98b2a88c3197fb00ae61101517098ef32c,500,"s
+of progression or mastery (understanding,
+application and creation), resulting in a
+total of twelve competency blocks. For each
+of these competency blocks, the AI CFS
+proposes detailed specifications on relevant
+pedagogical methodologies and strategies
+for the planning and provision of AI-related
+curricular content.
+1.2 Purpose and target audience
+The AI CFS aims to serve as a guide for
+public education systems to build the
+competencies required of all students and
+citizens for the effective i",1,"Leading cut removes the four aspects, so 'resulting in a total of twelve competency blocks' lacks the subject it depends on; next section also cut."
+P04,unesco_ai_students,12,1258,B,08509ddd2a23b8e070bddfc526dd85ee0554f63642f4505624dd4b842ac3eb36,700," of competencies for students that
+fall under four aspects: Human-centred
+mindset; Ethics of AI; AI techniques and
+applications; and AI system design. These
+four aspects are articulated at three levels
+of progression or mastery (understanding,
+application and creation), resulting in a
+total of twelve competency blocks. For each
+of these competency blocks, the AI CFS
+proposes detailed specifications on relevant
+pedagogical methodologies and strategies
+for the planning and provision of AI-related
+curricular content.
+1.2 Purpose and target audience
+The AI CFS aims to serve as a guide for
+public education systems to build the
+competencies required of all students and
+citizens for the effective i",2,"Clearly states the four aspects, three progression levels and twelve blocks; the next section begins only at the tail."
+P04,unesco_ai_students,12,1258,C,08509ddd2a23b8e070bddfc526dd85ee0554f63642f4505624dd4b842ac3eb36,700," of competencies for students that
+fall under four aspects: Human-centred
+mindset; Ethics of AI; AI techniques and
+applications; and AI system design. These
+four aspects are articulated at three levels
+of progression or mastery (understanding,
+application and creation), resulting in a
+total of twelve competency blocks. For each
+of these competency blocks, the AI CFS
+proposes detailed specifications on relevant
+pedagogical methodologies and strategies
+for the planning and provision of AI-related
+curricular content.
+1.2 Purpose and target audience
+The AI CFS aims to serve as a guide for
+public education systems to build the
+competencies required of all students and
+citizens for the effective i",2,Same coherent chunk as B; all framework dimensions and levels are stated.
+P05,unesco_ai_students,13,1611,A,832dc1a2db018a54b93eedaa4da0c7c98d09a73a3dbe24b9794b43ae64f0a030,498,"place, school
+students are expected to be conscious
+and knowledgeable of the advantages
+and limitations of existing affordances of
+AI. The pre-condition for responsible use
+consists in students’ abilities to detect
+the trustworthiness and proportionality
+of AI tools. The AI CFS aims to prepare
+students with the values, knowledge
+and skills necessary to critically examine
+the proportionality of AI from an ethical
+perspective. This includes examining and
+understanding its impact on human agency,",1,"Cut inside the main enumeration: the list of AI impacts stops after 'human agency,', losing most of the content the sentence introduces."
+P05,unesco_ai_students,13,1611,B,f723ef573bdc150f1f3727914bef97f0e0f0b91dd566ecbcaffde15c08e789f0,700,"us
+and knowledgeable of the advantages
+and limitations of existing affordances of
+AI. The pre-condition for responsible use
+consists in students’ abilities to detect
+the trustworthiness and proportionality
+of AI tools. The AI CFS aims to prepare
+students with the values, knowledge
+and skills necessary to critically examine
+the proportionality of AI from an ethical
+perspective. This includes examining and
+understanding its impact on human agency,
+social inclusion and equity, institutional
+and individual security, cultural and
+linguistic diversity, the construction and
+expression of plural opinions, as well as
+on the environment and on ecosystems.
+Students are expected to move beyond
+the misco",2,Ethical-proportionality idea complete including its full list of impacts; only the next sentence ('move beyond the misco…') is cut.
+P05,unesco_ai_students,13,1611,C,f723ef573bdc150f1f3727914bef97f0e0f0b91dd566ecbcaffde15c08e789f0,700,"us
+and knowledgeable of the advantages
+and limitations of existing affordances of
+AI. The pre-condition for responsible use
+consists in students’ abilities to detect
+the trustworthiness and proportionality
+of AI tools. The AI CFS aims to prepare
+students with the values, knowledge
+and skills necessary to critically examine
+the proportionality of AI from an ethical
+perspective. This includes examining and
+understanding its impact on human agency,
+social inclusion and equity, institutional
+and individual security, cultural and
+linguistic diversity, the construction and
+expression of plural opinions, as well as
+on the environment and on ecosystems.
+Students are expected to move beyond
+the misco",2,Same chunk as B: idea and list complete; only the trailing new sentence is cut.
+P06,unesco_ai_students,14,1626,A,53a51ff2514c6ab6ffade1379841b48ff353029557846c41ddce42bad7e29ea8,500,"commons. A human-
+centred approach also requires that AI be
+used in ways that ensure transparency and
+explainability, as well as human control and
+accountability.
+As AI becomes increasingly sophisticated
+and more widely used, a key danger is its
+potential to undermine human agency and
+compromise the development of human
+intellectual skills. While AI can be used to
+challenge and extend human thought, it
+should not be allowed to usurp or replace
+critical thinking. The protection and
+enhancement of",2,"Fragment at the opening, then a complete and clear point: AI may extend thought but must not replace critical thinking."
+P06,unesco_ai_students,14,1626,B,df059bf5d00ea142109597ee318e6b929688fa32f584e55770ac207e60704bfc,700,"hat AI be
+used in ways that ensure transparency and
+explainability, as well as human control and
+accountability.
+As AI becomes increasingly sophisticated
+and more widely used, a key danger is its
+potential to undermine human agency and
+compromise the development of human
+intellectual skills. While AI can be used to
+challenge and extend human thought, it
+should not be allowed to usurp or replace
+critical thinking. The protection and
+enhancement of human agency should,
+therefore, always be a core principle in
+the design of AI curricula and education
+programmes. The AI CFS aims to support
+students to understand the types of
+data that AI may collect from them, the
+methods with which the data may",2,The human-agency argument is complete; the following data-collection sentence is cut at the end.
+P06,unesco_ai_students,14,1626,C,df059bf5d00ea142109597ee318e6b929688fa32f584e55770ac207e60704bfc,700,"hat AI be
+used in ways that ensure transparency and
+explainability, as well as human control and
+accountability.
+As AI becomes increasingly sophisticated
+and more widely used, a key danger is its
+potential to undermine human agency and
+compromise the development of human
+intellectual skills. While AI can be used to
+challenge and extend human thought, it
+should not be allowed to usurp or replace
+critical thinking. The protection and
+enhancement of human agency should,
+therefore, always be a core principle in
+the design of AI curricula and education
+programmes. The AI CFS aims to support
+students to understand the types of
+data that AI may collect from them, the
+methods with which the data may",2,Same as B; the core warning about protecting human agency is self-contained.
+P07,unesco_ai_students,15,1709,A,26563683af564760cd5268ffcc6a45785ff1bfa07565a778e6d5e5f3ad60ca94,500,"and they should be supported to learn
+how to embed the principle of inclusivity
+into the design of AI and be prepared to
+contribute to an inclusive AI society.
+When defining AI competencies, school
+students should be provided with
+opportunities to understand and apply
+the principle of inclusivity across the AI
+life cycle. This covers the selection of
+representative data, the choice of bias-
+agnostic algorithms and anti-discrimination
+training methods, the design of accessible
+functionalities, te",1,"Cut inside the enumeration of inclusivity practices ('design of accessible functionalities, te…'), so the main list is incomplete."
+P07,unesco_ai_students,15,1709,B,7aff8ef63db4478785c6fdd19700536b7002c8752508509369bc74cac21d25fc,700," the principle of inclusivity
+into the design of AI and be prepared to
+contribute to an inclusive AI society.
+When defining AI competencies, school
+students should be provided with
+opportunities to understand and apply
+the principle of inclusivity across the AI
+life cycle. This covers the selection of
+representative data, the choice of bias-
+agnostic algorithms and anti-discrimination
+training methods, the design of accessible
+functionalities, testing for the inclusiveness
+of AI outputs, and impact assessment of the
+use of AI on social inclusion. With regard
+to AI system design, students can deepen
+their understanding and application skills
+to assess the needs of users with different
+abiliti",2,Explains inclusion across the AI life cycle and gives concrete practices; the following user-needs detail is cut.
+P07,unesco_ai_students,15,1709,C,7aff8ef63db4478785c6fdd19700536b7002c8752508509369bc74cac21d25fc,700," the principle of inclusivity
+into the design of AI and be prepared to
+contribute to an inclusive AI society.
+When defining AI competencies, school
+students should be provided with
+opportunities to understand and apply
+the principle of inclusivity across the AI
+life cycle. This covers the selection of
+representative data, the choice of bias-
+agnostic algorithms and anti-discrimination
+training methods, the design of accessible
+functionalities, testing for the inclusiveness
+of AI outputs, and impact assessment of the
+use of AI on social inclusion. With regard
+to AI system design, students can deepen
+their understanding and application skills
+to assess the needs of users with different
+abiliti",2,Same coherent text as B; the examples make the inclusion principle clear despite a clipped tail.
+P08,unesco_ai_students,16,1019,A,63504e7c0aa0cd9ac7c351a87a57ab6555036bd48115144b9f1e4befd49cb83d,500,"l as their
+implications for varying forms of human–AI
+interaction. The competencies also reflect
+the need to understand controversies
+surrounding AI and the key ethical
+principles that guide regulation, as well
+as foster practical skills to combat bias,
+protect privacy, promote transparency and
+accountability, and adopt an ethics-by-
+design approach to the co-creation of AI.
+The core competencies are brand-agnostic
+and product-agnostic, ensuring that students
+can appropriately engage with a rang",2,"Leading fragment, then a complete claim on controversies/ethical principles and practical skills; the trailing brand-agnostic sentence states its claim before being cut."
+P08,unesco_ai_students,16,1019,B,d50ec40fafca2e8f81593cfbc591ed05bcc2beb16e28750e7daec4e2e10f09ed,700,"
+centred mindset. Students need guidance to
+progressively deepen their understanding
+of particular human rights – such as rights
+to equality, non-discrimination, privacy
+and plural expression – as well as their
+implications for varying forms of human–AI
+interaction. The competencies also reflect
+the need to understand controversies
+surrounding AI and the key ethical
+principles that guide regulation, as well
+as foster practical skills to combat bias,
+protect privacy, promote transparency and
+accountability, and adopt an ethics-by-
+design approach to the co-creation of AI.
+The core competencies are brand-agnostic
+and product-agnostic, ensuring that students
+can appropriately engage with a rang",2,Human-rights and ethics claims complete; the trailing brand-agnostic sentence states its claim before being cut mid-word.
+P08,unesco_ai_students,16,1019,C,d50ec40fafca2e8f81593cfbc591ed05bcc2beb16e28750e7daec4e2e10f09ed,700,"
+centred mindset. Students need guidance to
+progressively deepen their understanding
+of particular human rights – such as rights
+to equality, non-discrimination, privacy
+and plural expression – as well as their
+implications for varying forms of human–AI
+interaction. The competencies also reflect
+the need to understand controversies
+surrounding AI and the key ethical
+principles that guide regulation, as well
+as foster practical skills to combat bias,
+protect privacy, promote transparency and
+accountability, and adopt an ethics-by-
+design approach to the co-creation of AI.
+The core competencies are brand-agnostic
+and product-agnostic, ensuring that students
+can appropriately engage with a rang",2,Same chunk as B: main claims complete; only the trailing sentence's consequence clause is cut.
+P09,unesco_ai_students,17,1441,A,ec83b0ea35673d0d63ff2a824c7d9e192c35d63689ab22ac24d99552f876808d,499,"beyond particular AI
+domains or tools.
+The first aspect positions students’
+competencies within a human-centred
+attitude towards the benefits and risks of AI.
+It also aims to foster a critical understanding
+of the proportionality1 of specific AI tools for
+our human needs and for the sustainable
+development of the environment and
+ecosystems. Ethics of AI, the second
+aspect, encompasses the social and ethical
+components of students’ AI competencies,
+including the social skills to navigate,
+unders",1,"Chunk content is the enumeration of aspects; the cut falls inside the second aspect's description ('navigate, unders…')."
+P09,unesco_ai_students,17,1441,B,71814e65e3509c52b4485c38d990feeefd01910626aa09847cb2ffd201c4d476,700,"aspect positions students’
+competencies within a human-centred
+attitude towards the benefits and risks of AI.
+It also aims to foster a critical understanding
+of the proportionality1 of specific AI tools for
+our human needs and for the sustainable
+development of the environment and
+ecosystems. Ethics of AI, the second
+aspect, encompasses the social and ethical
+components of students’ AI competencies,
+including the social skills to navigate,
+understand, practise and contribute to the
+adaptation of a growing set of principles that
+regulate human behaviour throughout the
+entire life cycle of AI.
+The third aspect, AI techniques and
+applications, represents an integrated
+view of the intrinsically ",1,Chunk content is the enumeration of aspects; first two complete but the third aspect is cut inside its defining sentence.
+P09,unesco_ai_students,17,1441,C,71814e65e3509c52b4485c38d990feeefd01910626aa09847cb2ffd201c4d476,700,"aspect positions students’
+competencies within a human-centred
+attitude towards the benefits and risks of AI.
+It also aims to foster a critical understanding
+of the proportionality1 of specific AI tools for
+our human needs and for the sustainable
+development of the environment and
+ecosystems. Ethics of AI, the second
+aspect, encompasses the social and ethical
+components of students’ AI competencies,
+including the social skills to navigate,
+understand, practise and contribute to the
+adaptation of a growing set of principles that
+regulate human behaviour throughout the
+entire life cycle of AI.
+The third aspect, AI techniques and
+applications, represents an integrated
+view of the intrinsically ",1,Same chunk as B: the enumeration of aspects is cut inside the third aspect.
+P10,unesco_ai_students,18,1201,A,1b09b1a2a268cf13992775d53c7a049213ac749c4656b005d4c8b5e530544463,499,"um level of mastery
+within a certain competency block. More
+specifically, the matrix is designed to guide:
+(1) the scoping of main AI-related focus areas
+and expected mastery levels, tailored to local
+AI readiness and available instructional time;
+(2) the identification of AI-related learning
+content that can be integrated across
+existing curricula, subject areas, and grade
+levels; (3) the definition of proficiency levels
+and the development of assessment criteria
+to assess students’ general AI",1,Chunk content is the matrix's list of purposes; the cut falls inside item (3) ('assess students’ general AI…').
+P10,unesco_ai_students,18,1201,B,891bfc36dcb770d344d97aeecf353f8652b3990432450e0535bd68f414c38509,700,"d
+and disparate topics to be learned in
+isolation, they can be connected and woven
+together as the operational organs of AI
+competency.
+The matrix provides a blueprint for learning
+outcomes at a minimum level of mastery
+within a certain competency block. More
+specifically, the matrix is designed to guide:
+(1) the scoping of main AI-related focus areas
+and expected mastery levels, tailored to local
+AI readiness and available instructional time;
+(2) the identification of AI-related learning
+content that can be integrated across
+existing curricula, subject areas, and grade
+levels; (3) the definition of proficiency levels
+and the development of assessment criteria
+to assess students’ general AI ",1,Chunk content is the matrix's list of purposes; item (3) is cut before it is complete.
+P10,unesco_ai_students,18,1201,C,891bfc36dcb770d344d97aeecf353f8652b3990432450e0535bd68f414c38509,700,"d
+and disparate topics to be learned in
+isolation, they can be connected and woven
+together as the operational organs of AI
+competency.
+The matrix provides a blueprint for learning
+outcomes at a minimum level of mastery
+within a certain competency block. More
+specifically, the matrix is designed to guide:
+(1) the scoping of main AI-related focus areas
+and expected mastery levels, tailored to local
+AI readiness and available instructional time;
+(2) the identification of AI-related learning
+content that can be integrated across
+existing curricula, subject areas, and grade
+levels; (3) the definition of proficiency levels
+and the development of assessment criteria
+to assess students’ general AI ",1,Same chunk as B: list of matrix purposes cut inside item (3).

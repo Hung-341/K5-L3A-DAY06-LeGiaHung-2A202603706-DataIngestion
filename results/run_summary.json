@@ -1,0 +1,108 @@
+{
+  "started_at_utc": "2026-11-13T11:56:52+00:00",
+  "evaluation_split": "both",
+  "question_count": 22,
+  "content_pages": 110,
+  "content_chars": 340415,
+  "ingestion_issue_pages": 0,
+  "config": {
+    "A": {
+      "chunking": "fixed_size",
+      "size": 500,
+      "overlap": 50,
+      "filter": false
+    },
+    "B": {
+      "chunking": "paragraph",
+      "max_size": 700,
+      "filter": false
+    },
+    "C": {
+      "chunking": "paragraph (same chunks/vectors as B)",
+      "max_size": 700,
+      "filter": "question.filter when present, else none"
+    }
+  },
+  "embedding": {
+    "model": "text-embedding-3-small",
+    "dimensions": 1536,
+    "base_url": "https://api.openai.com/v1",
+    "document_tokens": {
+      "A": 80966,
+      "B": 73485,
+      "C": 0
+    },
+    "query_tokens": 812,
+    "total_tokens": 155263,
+    "price_per_1m_tokens_usd": 0.02,
+    "estimated_cost_usd": 0.003105
+  },
+  "vector_store": {
+    "postgresql": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7",
+    "table": "day06_chunks",
+    "metric": "cosine distance (<=>)",
+    "search": "exact (sequential scan, no ANN index)"
+  },
+  "chunks": {
+    "A": {
+      "chunk_count": 793,
+      "total_chars": 374364,
+      "min_chars": 60,
+      "median_chars": 500,
+      "mean_chars": 472.1,
+      "max_chars": 500
+    },
+    "B": {
+      "chunk_count": 554,
+      "total_chars": 340375,
+      "min_chars": 2,
+      "median_chars": 700.0,
+      "mean_chars": 614.4,
+      "max_chars": 700
+    },
+    "C": {
+      "chunk_count": 554,
+      "total_chars": 340375,
+      "min_chars": 2,
+      "median_chars": 700.0,
+      "mean_chars": 614.4,
+      "max_chars": 700
+    }
+  },
+  "stored_rows": {
+    "A": {
+      "rows": 793,
+      "distinct_chunk_ids": 793
+    },
+    "B": {
+      "rows": 554,
+      "distinct_chunk_ids": 554
+    },
+    "C": {
+      "rows": 554,
+      "distinct_chunk_ids": 554
+    }
+  },
+  "reload_check": {
+    "strategy": "A",
+    "chunks_in_memory": 793,
+    "rows_after_first_load": 793,
+    "rows_after_reload": 793,
+    "no_duplicates": true
+  },
+  "timings_seconds": {
+    "ingest_seconds": 3.58,
+    "chunk_seconds": 0.01,
+    "embed_A_seconds": 13.74,
+    "embed_B_seconds": 10.29,
+    "upsert_seconds": 3.37,
+    "retrieval_seconds": 12.82
+  },
+  "environment": {
+    "python": "3.12.10",
+    "pypdf": "6.21.4",
+    "psycopg": "3.3.8",
+    "python-dotenv": "1.2.4"
+  }
+}

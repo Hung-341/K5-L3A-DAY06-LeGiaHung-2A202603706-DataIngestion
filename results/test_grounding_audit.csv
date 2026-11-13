@@ -1,0 +1,817 @@
+﻿strategy,question_id,question,expected_answer,top1,top2,top3,grounding_score_0_to_2,reason
+A,t04,Mức Deepen trong khung giáo viên hướng tới đối tượng giáo viên nào?,Giáo viên đã có một số kiến thức về AI và một số kinh nghiệm sử dụng AI trong giáo dục.,"[unesco_ai_teachers p.32] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+33
+4.2 Progression Level 2: Deepen
+The overall curricular goal in the ‘Deepen’
+level is to support teachers to become fully
+competent teachers or master teachers in
+using AI. They should demonstrate human-
+centred perspectives in their analyses and
+decisions, ethically sound behaviours,
+deepened conceptual understanding of
+AI and capacity to apply AI to support
+pedagogical activities and professional
+learning. The follow","[unesco_ai_teachers p.34] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+35
+Deepen
+
+TEACHER
+COMPETENCY
+CURRICULAR GOALS
+(Teacher training or support
+programmes should ...)
+LEARNING OBJECTIVES
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can demonstrate
+the following attitudinal or
+behavioural changes)
+AI
+foundations
+and
+applications
+3.2 Application skills:
+Teachers are
+expected to be
+able to proficiently
+operate AI tools
+adopted in
+educational settings;
+to deepen their
+knowledge of
+vari","[unesco_ai_teachers p.35] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+36
+Deepen
+
+TEACHER
+COMPETENCY
+CURRICULAR GOALS (CG)
+(Teacher training or support
+programmes should ...)
+LEARNING OBJECTIVES (LO)
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can demonstrate
+the following attitudinal or
+behavioural changes)
+AI
+pedagogy
+4.2 AI–pedagogy
+integration:
+Teachers are able to
+adeptly integrate
+AI into the design
+and facilitation
+of student-
+centred learning
+practices to foster
+engagement,
+s",1,"Top-1 describes Deepen-level competence, but none of the three chunks states the target group already has AI knowledge and experience."
+B,t04,Mức Deepen trong khung giáo viên hướng tới đối tượng giáo viên nào?,Giáo viên đã có một số kiến thức về AI và một số kinh nghiệm sử dụng AI trong giáo dục.,"[unesco_ai_teachers p.36] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+37
+Deepen","[unesco_ai_teachers p.34] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+35
+Deepen","[unesco_ai_teachers p.32] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+33
+4.2 Progression Level 2: Deepen
+The overall curricular goal in the ‘Deepen’
+level is to support teachers to become fully
+competent teachers or master teachers in
+using AI. They should demonstrate human-
+centred perspectives in their analyses and
+decisions, ethically sound behaviours,
+deepened conceptual understanding of
+AI and capacity to apply AI to support
+pedagogical activities and professional
+learning. The following goals, learning
+objectives and examples of activities specify
+what essential topics can be covered,
+how training can be organized, and what
+behaviours teachers might demonstrate
+after achieving ea",1,"Top-3 describes the level goal, not the stated target group; answer is only indirectly suggested."
+C,t04,Mức Deepen trong khung giáo viên hướng tới đối tượng giáo viên nào?,Giáo viên đã có một số kiến thức về AI và một số kinh nghiệm sử dụng AI trong giáo dục.,"[unesco_ai_teachers p.36] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+37
+Deepen","[unesco_ai_teachers p.34] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+35
+Deepen","[unesco_ai_teachers p.32] AI competency framework for teachers – Chapter 4: The AI CFT specifications
+33
+4.2 Progression Level 2: Deepen
+The overall curricular goal in the ‘Deepen’
+level is to support teachers to become fully
+competent teachers or master teachers in
+using AI. They should demonstrate human-
+centred perspectives in their analyses and
+decisions, ethically sound behaviours,
+deepened conceptual understanding of
+AI and capacity to apply AI to support
+pedagogical activities and professional
+learning. The following goals, learning
+objectives and examples of activities specify
+what essential topics can be covered,
+how training can be organized, and what
+behaviours teachers might demonstrate
+after achieving ea",1,Same retrieved evidence as B; target-group condition is not stated.
+A,t08,"Trong khung giáo viên, khía cạnh tư duy lấy con người làm trung tâm có những khối năng lực nào ở ba mức?","Human agency (Acquire), Human accountability (Deepen), Social responsibility (Create).","[unesco_ai_teachers p.40] Navigate the teacher–AI–student
+triangular relations; design and
+engineer the desirable scenarios of
+teacher–student, teacher–AI, student–
+AI and teacher–AI–student interactions.
+AI empowering students with
+special needs: Promote assistive
+AI or co-create assistive AI tools and
+design activities to provide students
+with disabilities and special needs
+opportunities for empowerment while
+protecting their human rights and
+privacy.
+Human–AI hybrid approach
+to development of curricular
+resources:
+Co","[unesco_ai_teachers p.24] their
+strengths and weaknesses in each of the
+aspects and personalize training priorities
+and learning pathways.
+3.3.1 Progression level 1: Acquire
+‘Acquire’ is a rudimentary level of learning
+and the initial level of practical AI use,
+encompassing the essential set of AI
+competencies required by all teachers
+to evaluate, select and exploit AI tools
+effectively and ethically in their practice. At
+this level, teachers embark on acquiring and
+utilizing the most fundamental knowledge
+and skills to","[unesco_ai_students p.20] t
+have a strong interest in pursuing deeper
+study in the field, the learning outcomes at
+this level, in particular under the ‘AI system
+design’ aspect, should be offered as elective
+programmes rather than as compulsory
+requirements for all students.
+3.3 Aspects
+The four aspects specify the essential
+constituent elements of AI competencies
+that students need to build and continuously
+update in order to become responsible users
+and active co-creators of AI, and potential
+leaders in defining and de",1,"Top-1/2 give related teacher-framework context, but the three human-centred blocks and their level mapping are not all present; top-3 is the student framework."
+B,t08,"Trong khung giáo viên, khía cạnh tư duy lấy con người làm trung tâm có những khối năng lực nào ở ba mức?","Human agency (Acquire), Human accountability (Deepen), Social responsibility (Create).","[unesco_ai_teachers p.32] TEACHER
+COMPETENCY
+CURRICULAR GOALS
+(Teacher training or
+support programmes should ...)
+LEARNING OBJECTIVES
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can
+demonstrate the
+following attitudinal or
+behavioural changes)
+Human-
+centred
+mindset
+1 .2 Human
+accountability:
+Teachers can
+demonstrate
+both a deepened
+understanding
+of human
+accountability
+and human
+determination
+in the proper
+deployment
+and use of AI,
+as well as a
+critical capacity
+to assess AI’s
+capabilities
+in facilitating
+human–AI
+decision loops,
+as well as
+overhyped
+claims on the
+use of AI to
+substitute
+humans in
+making high-
+stakes decisions
+in education.
+CG1.2.1 Deepen teachers’ understanding of
+the risks related to the ab","[unesco_ai_teachers p.37] TEACHER
+COMPETENCY
+CURRICULAR GOALS
+(Teacher training or support
+programmes should ...)
+LEARNING
+OBJECTIVES
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can demonstrate
+the following attitudinal or
+behavioural changes)
+Human-
+centred
+mindset
+1.3 Social
+responsibility:
+Teachers are able to
+actively participate
+in, and contribute
+to, the building of
+inclusive AI societies
+guided by a critical
+understanding of
+the implications of
+AI for societal norms,
+promoting the
+design and use of AI
+for the enhancement
+of human welfare,
+inclusion and social
+justice.
+CG1.3.1 Foster a critical understanding of
+the importance of protecting social and
+emotional well-being from commercially-
+driven AI mani","[unesco_ai_teachers p.27] TEACHER
+COMPETENCY
+CURRICULAR GOALS (CG)
+(Teacher training or support
+programmes should ...)
+LEARNING OBJECTIVES (LO)
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can
+demonstrate the
+following attitudinal or
+behavioural changes)
+Human-
+centred
+mindset
+1 .1 Human agency:
+Teachers
+have a critical
+understanding that
+AI is human-led, and
+that corporate and
+individual decisions
+of AI creators have a
+profound impact on
+human autonomy
+and rights, and
+are aware of the
+importance of
+human agency when
+evaluating and using
+AI tools.
+CG1.1.1 Foster critical thinking
+on AI by organizing teachers to
+discuss and take perspectives
+on the dilemma of benefits
+offered by AI versus the risks of
+diminishin",1,"Top-1/2/3 contain Human agency (1.1), Human accountability (1.2) and Social responsibility (1.3), but do not state which is Acquire, Deepen or Create. The required level mapping is not explicit, so the reader must infer it."
+C,t08,"Trong khung giáo viên, khía cạnh tư duy lấy con người làm trung tâm có những khối năng lực nào ở ba mức?","Human agency (Acquire), Human accountability (Deepen), Social responsibility (Create).","[unesco_ai_teachers p.32] TEACHER
+COMPETENCY
+CURRICULAR GOALS
+(Teacher training or
+support programmes should ...)
+LEARNING OBJECTIVES
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can
+demonstrate the
+following attitudinal or
+behavioural changes)
+Human-
+centred
+mindset
+1 .2 Human
+accountability:
+Teachers can
+demonstrate
+both a deepened
+understanding
+of human
+accountability
+and human
+determination
+in the proper
+deployment
+and use of AI,
+as well as a
+critical capacity
+to assess AI’s
+capabilities
+in facilitating
+human–AI
+decision loops,
+as well as
+overhyped
+claims on the
+use of AI to
+substitute
+humans in
+making high-
+stakes decisions
+in education.
+CG1.2.1 Deepen teachers’ understanding of
+the risks related to the ab","[unesco_ai_teachers p.37] TEACHER
+COMPETENCY
+CURRICULAR GOALS
+(Teacher training or support
+programmes should ...)
+LEARNING
+OBJECTIVES
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can demonstrate
+the following attitudinal or
+behavioural changes)
+Human-
+centred
+mindset
+1.3 Social
+responsibility:
+Teachers are able to
+actively participate
+in, and contribute
+to, the building of
+inclusive AI societies
+guided by a critical
+understanding of
+the implications of
+AI for societal norms,
+promoting the
+design and use of AI
+for the enhancement
+of human welfare,
+inclusion and social
+justice.
+CG1.3.1 Foster a critical understanding of
+the importance of protecting social and
+emotional well-being from commercially-
+driven AI mani","[unesco_ai_teachers p.27] TEACHER
+COMPETENCY
+CURRICULAR GOALS (CG)
+(Teacher training or support
+programmes should ...)
+LEARNING OBJECTIVES (LO)
+(Teachers can ...)
+CONTEXTUAL ACTIVITIES
+(Teachers can
+demonstrate the
+following attitudinal or
+behavioural changes)
+Human-
+centred
+mindset
+1 .1 Human agency:
+Teachers
+have a critical
+understanding that
+AI is human-led, and
+that corporate and
+individual decisions
+of AI creators have a
+profound impact on
+human autonomy
+and rights, and
+are aware of the
+importance of
+human agency when
+evaluating and using
+AI tools.
+CG1.1.1 Foster critical thinking
+on AI by organizing teachers to
+discuss and take perspectives
+on the dilemma of benefits
+offered by AI versus the risks of
+diminishin",1,"Top-1/2/3 contain Human agency (1.1), Human accountability (1.2) and Social responsibility (1.3), but do not state which is Acquire, Deepen or Create. The required level mapping is not explicit, so the reader must infer it."
+A,s03,"Trong khung học sinh, khía cạnh thiết kế hệ thống AI gồm những khối năng lực nào?","Problem scoping (Understand), Architecture design (Apply), Iteration and feedback loops (Create).","[unesco_ai_students p.25] design: Students are expected
+to be able to cultivate basic methodological
+knowledge and technical skills to configure
+a scalable, maintainable and reusable
+architecture for an AI system covering layers
+of data, algorithms, models and application
+interfaces. Students are expected to develop
+the interdisciplinary skills necessary to
+leverage datasets, programming tools
+and computational resources to construct
+a prototype AI system. This includes the
+expectation that they apply deepened
+human-cent","[unesco_ai_students p.17] hniques and
+applications, and AI system design. These
+elements focus on fundamental values,
+social responsibilities to uphold ethical
+principles, foundational knowledge and
+skills, and higher-order thinking skills for
+system design. While different elements
+can be developed through domain-specific
+learning and pedagogical methodologies,
+AI competencies are ultimately a set of
+interdisciplinary, general abilities and value
+orientations that extend beyond particular AI
+domains or tools.
+The first","[unesco_ai_students p.43] AI competency framework for students – Chapter 4: Specifications of AI competencies for students
+44
+AI system
+design
+an experienced teacher).
+Explore the leveraging
+and normalization of
+datasets, assembling of
+virtual computational
+resources, and selection and
+enhancements of AI models
+(e.g. hyperparameter
+optimization). Guide
+students to simulate the
+training of a machine-
+learning model, including
+the practical use of
+computational resources
+and calling of data to train
+the models based on the",1,"Top-1 gives Architecture design evidence, but the three requested blocks and progression mapping are not all present."
+B,s03,"Trong khung học sinh, khía cạnh thiết kế hệ thống AI gồm những khối năng lực nào?","Problem scoping (Understand), Architecture design (Apply), Iteration and feedback loops (Create).","[unesco_ai_students p.33] ern AI
+systems are rooted in
+mathematics, and learning
+about data and algorithms
+requires a strong command
+of mathematics and a
+multidisciplinary knowledge
+set. Nurture students’
+essential mathematical
+and interdisciplinary
+skills for AI development,
+including relevant material
+on algebra, probability and
+statistics, data structures and
+algorithms such as K-nearest
+neighbours, K-means
+clustering, linear regression
+and CART/decision trees.
+Cultivate students’ higher-
+level knowledge on linear
+algebra for complex data
+representation and matrix
+mathematics, calculus
+for back propagation
+and gradient descent for
+understanding machine
+learning and neural
+networks. Support students
+to solidify and","[unesco_ai_students p.43] AI competency framework for students – Chapter 4: Specifications of AI competencies for students
+44
+AI system
+design
+an experienced teacher).
+Explore the leveraging
+and normalization of
+datasets, assembling of
+virtual computational
+resources, and selection and
+enhancements of AI models
+(e.g. hyperparameter
+optimization). Guide
+students to simulate the
+training of a machine-
+learning model, including
+the practical use of
+computational resources
+and calling of data to train
+the models based on the
+selected and preprocessed
+datasets. Design and
+arrange opportunities
+for students to acquire
+project management skills
+including balancing the
+scope of the AI systems
+with the resources
+available, co","[unesco_ai_students p.25]  conceptualize and construct an AI
+system, including the ability to assess the
+appropriateness of different AI techniques,
+define the need for data, and devise test and
+feedback metrics.
+Architecture design: Students are expected
+to be able to cultivate basic methodological
+knowledge and technical skills to configure
+a scalable, maintainable and reusable
+architecture for an AI system covering layers
+of data, algorithms, models and application
+interfaces. Students are expected to develop
+the interdisciplinary skills necessary to
+leverage datasets, programming tools
+and computational resources to construct
+a prototype AI system. This includes the
+expectation that they apply deepened
+human-cent",1,Top-3 supports Architecture design; the other requested blocks and their levels are absent.
+C,s03,"Trong khung học sinh, khía cạnh thiết kế hệ thống AI gồm những khối năng lực nào?","Problem scoping (Understand), Architecture design (Apply), Iteration and feedback loops (Create).","[unesco_ai_students p.33] ern AI
+systems are rooted in
+mathematics, and learning
+about data and algorithms
+requires a strong command
+of mathematics and a
+multidisciplinary knowledge
+set. Nurture students’
+essential mathematical
+and interdisciplinary
+skills for AI development,
+including relevant material
+on algebra, probability and
+statistics, data structures and
+algorithms such as K-nearest
+neighbours, K-means
+clustering, linear regression
+and CART/decision trees.
+Cultivate students’ higher-
+level knowledge on linear
+algebra for complex data
+representation and matrix
+mathematics, calculus
+for back propagation
+and gradient descent for
+understanding machine
+learning and neural
+networks. Support students
+to solidify and","[unesco_ai_students p.43] AI competency framework for students – Chapter 4: Specifications of AI competencies for students
+44
+AI system
+design
+an experienced teacher).
+Explore the leveraging
+and normalization of
+datasets, assembling of
+virtual computational
+resources, and selection and
+enhancements of AI models
+(e.g. hyperparameter
+optimization). Guide
+students to simulate the
+training of a machine-
+learning model, including
+the practical use of
+computational resources
+and calling of data to train
+the models based on the
+selected and preprocessed
+datasets. Design and
+arrange opportunities
+for students to acquire
+project management skills
+including balancing the
+scope of the AI systems
+with the resources
+available, co","[unesco_ai_students p.25]  conceptualize and construct an AI
+system, including the ability to assess the
+appropriateness of different AI techniques,
+define the need for data, and devise test and
+feedback metrics.
+Architecture design: Students are expected
+to be able to cultivate basic methodological
+knowledge and technical skills to configure
+a scalable, maintainable and reusable
+architecture for an AI system covering layers
+of data, algorithms, models and application
+interfaces. Students are expected to develop
+the interdisciplinary skills necessary to
+leverage datasets, programming tools
+and computational resources to construct
+a prototype AI system. This includes the
+expectation that they apply deepened
+human-cent",1,"Same as B; relevant design evidence is present, but the complete three-level list is missing."
+A,s07,Các kết quả học tập mức Create thuộc AI system design nên được tổ chức bắt buộc hay tự chọn cho học sinh không theo đuổi sâu lĩnh vực này?,"Nên là chương trình tự chọn, không bắt buộc với mọi học sinh.","[unesco_ai_students p.20] t
+have a strong interest in pursuing deeper
+study in the field, the learning outcomes at
+this level, in particular under the ‘AI system
+design’ aspect, should be offered as elective
+programmes rather than as compulsory
+requirements for all students.
+3.3 Aspects
+The four aspects specify the essential
+constituent elements of AI competencies
+that students need to build and continuously
+update in order to become responsible users
+and active co-creators of AI, and potential
+leaders in defining and de","[unesco_ai_students p.20] AI competency framework for students – Chapter 3: Structure of the AI competency framework for students
+21
+Students at this level may progress to
+the third, more specialized level, Create.
+However, it is possible that some students
+will not have a strong interest in AI, or will
+lack sufficient time or opportunities to
+finetune their AI competencies within the
+formal learning environment at school. For
+many, ‘Apply’ at Level 2 will be the point
+of exit for their AI-related competency
+development,","[unesco_ai_students p.20] AI tools
+and to take a leading role in the definition
+and design of the next generation of AI
+technologies. At the ‘Create’ level, students
+are expected to become conscientious AI
+co-creators, developing human-centred
+solutions to positively impact the design
+and use of AI. Study at this level requires
+the integrated application of the acquired
+values, knowledge and skills on AI to design,
+implement and test AI solutions that can
+help address real-world challenges.
+Students will critically leve",2,Top-1 contains elective rather than compulsory; top-2 restores the clipped condition for students without strong interest.
+B,s07,Các kết quả học tập mức Create thuộc AI system design nên được tổ chức bắt buộc hay tự chọn cho học sinh không theo đuổi sâu lĩnh vực này?,"Nên là chương trình tự chọn, không bắt buộc với mọi học sinh.","[unesco_ai_students p.44] AI competency framework for students – Chapter 4: Specifications of AI competencies for students
+45
+4.3 Level 3: Create
+The overall goal of the ‘Create’ level is to
+challenge and enable students to develop
+advanced competencies to configure AI
+solutions or craft new AI tools based on
+customizable datasets, programming
+tools or AI models, with consideration
+of open-source options. Students will
+also be supported to reinforce a sense of
+belonging to a broader community of AI
+co-creators and enhance their intellectual
+engagement with the social responsibilities
+that are required for being a citizen in AI
+societies. The curricular goals shown in
+Table 4 aim to inspire the outlining of a set
+of h","[unesco_ai_students p.20] AI competency framework for students – Chapter 3: Structure of the AI competency framework for students
+21
+Students at this level may progress to
+the third, more specialized level, Create.
+However, it is possible that some students
+will not have a strong interest in AI, or will
+lack sufficient time or opportunities to
+finetune their AI competencies within the
+formal learning environment at school. For
+many, ‘Apply’ at Level 2 will be the point
+of exit for their AI-related competency
+development, at least at school.
+Level 3: Create
+The exponential pace of innovation within
+the AI sector means that technology
+providers are defining the terms of the
+transformation of our societies. Developing
+c","[unesco_ai_students p.20] implications of AI
+and to personalize the responsibilities of
+being a citizen in AI-driven societies.
+Learning at the ‘Create’ level also aims
+to foster students’ creative problem-
+solving skills and a proactive attitude to
+advocating for ethical AI practices. Meeting
+the requirements of this level in full will
+require sufficient allocation of learning
+time and space within the curriculum (e.g.
+an entire semester or multiple semesters).
+The learning programme must also provide
+the necessary AI resources and facilitate
+age-appropriate innovative pedagogical
+methodologies. For students who do not
+have a strong interest in pursuing deeper
+study in the field, the learning outcomes at
+this level,",1,Top-3 contains the condition but stops before the words elective rather than compulsory; answer must be inferred.
+C,s07,Các kết quả học tập mức Create thuộc AI system design nên được tổ chức bắt buộc hay tự chọn cho học sinh không theo đuổi sâu lĩnh vực này?,"Nên là chương trình tự chọn, không bắt buộc với mọi học sinh.","[unesco_ai_students p.44] AI competency framework for students – Chapter 4: Specifications of AI competencies for students
+45
+4.3 Level 3: Create
+The overall goal of the ‘Create’ level is to
+challenge and enable students to develop
+advanced competencies to configure AI
+solutions or craft new AI tools based on
+customizable datasets, programming
+tools or AI models, with consideration
+of open-source options. Students will
+also be supported to reinforce a sense of
+belonging to a broader community of AI
+co-creators and enhance their intellectual
+engagement with the social responsibilities
+that are required for being a citizen in AI
+societies. The curricular goals shown in
+Table 4 aim to inspire the outlining of a set
+of h","[unesco_ai_students p.20] AI competency framework for students – Chapter 3: Structure of the AI competency framework for students
+21
+Students at this level may progress to
+the third, more specialized level, Create.
+However, it is possible that some students
+will not have a strong interest in AI, or will
+lack sufficient time or opportunities to
+finetune their AI competencies within the
+formal learning environment at school. For
+many, ‘Apply’ at Level 2 will be the point
+of exit for their AI-related competency
+development, at least at school.
+Level 3: Create
+The exponential pace of innovation within
+the AI sector means that technology
+providers are defining the terms of the
+transformation of our societies. Developing
+c","[unesco_ai_students p.20] implications of AI
+and to personalize the responsibilities of
+being a citizen in AI-driven societies.
+Learning at the ‘Create’ level also aims
+to foster students’ creative problem-
+solving skills and a proactive attitude to
+advocating for ethical AI practices. Meeting
+the requirements of this level in full will
+require sufficient allocation of learning
+time and space within the curriculum (e.g.
+an entire semester or multiple semesters).
+The learning programme must also provide
+the necessary AI resources and facilitate
+age-appropriate innovative pedagogical
+methodologies. For students who do not
+have a strong interest in pursuing deeper
+study in the field, the learning outcomes at
+this level,",1,"Same as B; top-3 cuts off before the decisive recommendation, although the preceding condition is present."
+A,s10,Tính đến năm 2022 có bao nhiêu quốc gia đưa mục tiêu học tập về AI vào chương trình quốc gia?,Chỉ 15 quốc gia.,"[unesco_ai_students p.11] ijing Consensus underlined the need to
+equip people with AI literacy across all layers
+of society. However, according to a recent
+survey conducted across 190 countries,
+only some 15 countries were found to be
+developing or implementing AI curricula
+in school education (UNESCO, 2022b). The
+survey also found that there was wide
+variation in how countries defined AI literacy,
+skills and competency. The results of the
+survey therefore underscored the urgency
+of developing a harmonized approach to
+in","[unesco_ai_students p.52] are notable
+gaps in the education of these skills.
+Member States should promote general awareness programmes about AI developments,
+including on data and the opportunities and challenges brought about by AI technologies,
+the impact of AI systems on human rights and their implications, including children’s rights.
+These programmes should be accessible to nontechnical as well as technical groups.
+Source: UNESCO, 2022a, pp. 33–34
+If a national strategy for AI is released and
+well-implemented, the i","[unesco_ai_students p.60] of
+AI to the basic mastery level. According
+to UNESCO’s report K-12 AI curricula: A
+mapping of government-endorsed AI curricula
+(2022b), implementation for school students
+requires the following essential conditions,
+ranked by importance: teacher training and
+support, teaching resources on AI, needs
+analysis and school-based research, updated
+digital infrastructure in schools, and the
+provision of AI resources including through
+procurement of hardware and software
+as well as engagement with the",1,"Top-1 gives a related count of 15 countries developing/implementing school AI curricula, but not the exact national-learning-objective claim."
+B,s10,Tính đến năm 2022 có bao nhiêu quốc gia đưa mục tiêu học tập về AI vào chương trình quốc gia?,Chỉ 15 quốc gia.,"[unesco_ai_teachers p.3] vides strategies
+for teachers to build AI knowledge, apply ethical principles, and
+support their professional growth.
+By 2022, only
+seven countries
+had developed
+AI frameworks or
+programmes for
+teachers","[unesco_ai_students p.52] 
+Member States should promote general awareness programmes about AI developments,
+including on data and the opportunities and challenges brought about by AI technologies,
+the impact of AI systems on human rights and their implications, including children’s rights.
+These programmes should be accessible to nontechnical as well as technical groups.
+Source: UNESCO, 2022a, pp. 33–34
+If a national strategy for AI is released and
+well-implemented, the implementation
+of the AI CFS and AI curricula for students
+should be planned and supported
+administratively and financially within the
+broad framework of the AI strategy. Such
+national strategies are usually triggered
+by policy responses to the wide-r","[unesco_ai_teachers p.45] unched in 2020, the
+Republic of Korea has been supporting teachers to complete courses on AI as part of initial training
+and recruitment. To this end, institutions with responsibilities for teacher preparation have been
+supported to enhance their programmes: universities of education have revised the standard for the
+qualification of teachers to complete AI-related courses; colleges of education have been supported
+to add and integrate AI-related contents into teaching and related majors; and post-graduate schools
+of education have established new majors focusing on AI-integrated education and on supporting
+participating teachers. The parallel Revamping Teacher Training System initiative aim",0,Top-3 results do not establish the requested count; top-1 instead reports seven teacher frameworks.
+C,s10,Tính đến năm 2022 có bao nhiêu quốc gia đưa mục tiêu học tập về AI vào chương trình quốc gia?,Chỉ 15 quốc gia.,"[unesco_ai_students p.52] 
+Member States should promote general awareness programmes about AI developments,
+including on data and the opportunities and challenges brought about by AI technologies,
+the impact of AI systems on human rights and their implications, including children’s rights.
+These programmes should be accessible to nontechnical as well as technical groups.
+Source: UNESCO, 2022a, pp. 33–34
+If a national strategy for AI is released and
+well-implemented, the implementation
+of the AI CFS and AI curricula for students
+should be planned and supported
+administratively and financially within the
+broad framework of the AI strategy. Such
+national strategies are usually triggered
+by policy responses to the wide-r","[unesco_ai_students p.60] ining and
+support, teaching resources on AI, needs
+analysis and school-based research, updated
+digital infrastructure in schools, and the
+provision of AI resources including through
+procurement of hardware and software
+as well as engagement with the private or
+third sector to share AI devices and systems.
+If these conditions are not provided, the
+curriculum is unlikely to be implemented as
+intended or achieve its anticipated learning
+and competency objectives. The report
+highlighted typical learning environments
+that had been set up by the 11 countries that
+were implementing their own governmental
+K-12 AI curricula as of 2022, detailed below.
+Box 5: Typical enabling learning environment set ","[unesco_ai_students p.54] n AI pedagogy integration.
+Source: Ministry of Science and ICT, Republic of Korea, 2019",0,"All three retrieved chunks are on the right audience, but none contains the requested 15-country evidence."
